@@ -1,51 +1,46 @@
-Olá! 😁
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Tortelliz&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-Me chamo Rayan Tortelli, e é um prazer poder me apresentar. 😁
+### Olá, meu nome é {Rayan Tortelli}!
 
-public class RayanTortelli {
+<img src="https://img.shields.io/static/v1?label=Overview&message=Rayan Tortelli&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-public void apresentacao() {
+<p>Trabalho na {Grafcet Soluções Tecnológicas}<br/> Eu sou desenvolvedor {Web Full Stack - Iniciante}</p>
+<p>Possuo domínios em :<br/>
+  <p>{Programação Orientada a Objetos (POO)}<br/>
+  <p>{Desenvolvimento Web Full Stack (Java Spring / React / Javascript)}<br/>
+  <p>{Desenvolvimento Back-end com API Rest}<br/>
+  <p>{Padrão Model-View-Controller (MVC)}<br/>
+  <p>{Desenvolvimento em Visual Basic for Applications (VBA)}<br/>
+  <p>{Desenvolvimento em Java}<br/>
+  <p>{Desenvolvimento em Python}<br/>
+  <p>{Análise de Dados}<br/>
+  <p>{Criação de Views, Dashboards e Relatórios}<br/>
 
-  Sou um jovem de 22 anos que apesar da pouca idade, adquiro algumas experiências através dos locais que passei em minha jornada profissional qual inicieidesde cedo, aos 16 anos, onde aprendi muito sobre compromisso, respeito, profissionalismo e excelência.
-  No dia-a-dia sou uma pessoa simpática e colaborativa, amo desafios e sou do tipo que se esforça a todo momento para poder enxergar o mundo da forma maisbela possível, praticando sempre a pacificação e a empatia, visando não somente a minha harmonia e bem-estar, mas de todos ao meu redor.
-  Acredito que a manifestação da excelência nos ambientes tem o poder de transformá-los e uso de meus valores, fé e da minha ética unidos a excelência paratornar de todo ambiente qual faço parte, um ambiente que traga properidade e conquistas a todos que fazem parte dele.
-  Sou grato por estar onde estou hoje, por ter aprendido o que aprendi e unindo essa gratidão a força de vontade para alcançar os objetivos os quais tenhotraçado, espero poder me tornar uma pessoa cada dia melhor em todos os departamentos da vida e ser um exemplo de sucesso.
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-  - Atualmente busco por ingressar na área de tecnologia, mais especificamente em Desenvolvimento de Software ou Gerenciamento de Projetos de Sistemas.
-    
-  - Sou graduando na faculdade de tecnologia em Análise e Desenvolvimento de Sistmas (ADS) na Universidade de Mogi das Cruzes (UMC).
+<p align="left"> 
+  Olá, me chamo Rayan Tortelli, muito prazer!
+  Sou um jovem de 22 anos empenhado em ingressar no mercado de tecnologia.
+  Sou graduando no curso de faculdade de tecnologia em Análise e Desenvolvimento de Sistemas (ADS) e
+  estudo na Universidade de Mogi das Cruzes (UMC) - 3º/4º Semestre.
+  Atualmente atuo no mercado como Analista de Projetos.
+</p>
 
-  - Estou no 3º/4º semestre de faculdade.
+<p align="left">
+  ♨️ Linguagens: **Java / Python / Visual Basic for Applications (VBA) / Javascript**
+</p>
 
-  }
+<p align="left">
+  💼 Ferramentas: **Pacote Office / Monday / Canva / MySQL / SLQServer / NodeRED (IOT) / VS Code / Intellij / NetBeans / Tableau / Power BI**
+</p>
 
-  public void infos() {
+<p align="left">
+  🌐 Redes Sociais para Contato: ⤵️
+</p>
 
-  🏄 Hobbies - Games / Skate / Futebol / *Música* / Viagens / Séries & Filmes;
-
-  Cores Prediletas: 🟣⚫ 
-
-  Sou um multinstrumentista entusiasta e autodidata (em alguns instrumentos), especialidades:
-
-  - 🎸 Violão;
-  - 🥁 Bateria;
-  - 🎸 Contra Baixo Elétrico;
-  - 🎹 Teclado e
-  - 🎸 Guitarra.
-
-  }
-
-}
-
-♨️ Pegou o Easter Egg da minha linguagem de programação preferida? ☕
-
-Você pode me encontrar em:
-
-- ✳️ - INSTAGRAM - https://www.instagram.com/rayan.tortelli
-- ✳️ - LINKEDIN - https://www.linkedin.com/in/rayan-tortelli-b7581a186
-
-E-mail: rayan.tortelli@gmail.com
-
-Muito obrigado!
-
-Atenciosamente, Rayan Tortelli.
+<p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://www.linkedin.com/in/rayan-tortelli-b7581a186" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://www.instagram.com/rayan.tortelli" alt="Instagram"/></a>
+</p>
