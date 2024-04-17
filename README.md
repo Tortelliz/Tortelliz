@@ -1,46 +1,71 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Tortelliz&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-### Olá, meu nome é {Rayan Tortelli}!
+### Olá, meu nome é Rayan Tortelli!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Rayan Tortelli&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Rayan%20Tortelli&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Trabalho na {Grafcet Soluções Tecnológicas}<br/> Eu sou desenvolvedor {Web Full Stack - Iniciante}</p>
-<p>Possuo domínios em :<br/>
-  <p>{Programação Orientada a Objetos (POO)}<br/>
-  <p>{Desenvolvimento Web Full Stack (Java Spring / React / Javascript)}<br/>
-  <p>{Desenvolvimento Back-end com API Rest}<br/>
-  <p>{Padrão Model-View-Controller (MVC)}<br/>
-  <p>{Desenvolvimento em Visual Basic for Applications (VBA)}<br/>
-  <p>{Desenvolvimento em Java}<br/>
-  <p>{Desenvolvimento em Python}<br/>
-  <p>{Análise de Dados}<br/>
-  <p>{Criação de Views, Dashboards e Relatórios}<br/>
+<p align="left">Trabalho na Grafcet Soluções Tecnológicas<br/> Atuo como Analista de Projetos Jr.</p>
 
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+---
 
-<p align="left"> 
-  Olá, me chamo Rayan Tortelli, muito prazer!
-  Sou um jovem de 22 anos empenhado em ingressar no mercado de tecnologia.
-  Sou graduando no curso de faculdade de tecnologia em Análise e Desenvolvimento de Sistemas (ADS) e
-  estudo na Universidade de Mogi das Cruzes (UMC) - 3º/4º Semestre.
-  Atualmente atuo no mercado como Analista de Projetos.
-</p>
+<h2>Possuo domínio em:</h2>
 
-<p align="left">
-  ♨️ Linguagens: **Java / Python / Visual Basic for Applications (VBA) / Javascript**
-</p>
+- Programação Orientada a Objetos (POO);
+- Desenvolvimento Web Full Stack (Java Spring / React / Javascript);
+- Desenvolvimento Back-end com API Rest;
+- Padrão Model-View-Controller (MVC);
+- Desenvolvimento em Visual Basic for Applications (VBA);
+- Desenvolvimento em Java;
+- Desenvolvimento em Python;
+- Análise de Dados e
+- Criação de Views, Dashboards e Relatórios.
 
-<p align="left">
-  💼 Ferramentas: **Pacote Office / Monday / Canva / MySQL / SLQServer / NodeRED (IOT) / VS Code / Intellij / NetBeans / Tableau / Power BI**
-</p>
+---
 
-<p align="left">
-  🌐 Redes Sociais para Contato: ⤵️
-</p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left">
-  <a href="#" title="LinkedIn">
-  <img src="https://www.linkedin.com/in/rayan-tortelli-b7581a186" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://www.instagram.com/rayan.tortelli" alt="Instagram"/></a>
-</p>
+<p align="left">Muito prazer! Sou um jovem de 22 anos empenhado em ingressar no mercado de tecnologia. Atualmente sou graduando no curso de Análise e Desenvolvimento de Sistemas (ADS) na Universidade de Mogi das Cruzes (UMC), cursando o 3º/4º semestre. Também atuo ativamente no mercado como Analista de Projetos Jr, porém, não especificamente na área de Desenvolvimento de Software, o que para mim é uma meta traçada.</p>
+
+<p align="left">Busco por novas oportunidades na área de Desenvolvimento de Software.</p>
+
+---
+
+💼 **Vagas Desejadas:**
+
+- Desenvolvedor Jr.;
+- Analista de Sistemas Jr.;
+- Analista de Projetos de Sistemas Jr.;
+- Estagiário em Desenvolvimento de Software e
+- Estagiário em Gerenciamento de Projetos de Sistemas.
+
+---
+
+♨️ **Linguagens de Programação:**
+
+- Java;
+- Python;
+- Visual Basic for Applications (VBA) e
+- Javascript.
+
+---
+
+🔧 **Ferramentas:**
+
+- Pacote Office;
+- Monday;
+- Canva;
+- MySQL;
+- SQLServer;
+- NodeRED (IoT);
+- VS Code;
+- IntelliJ;
+- NetBeans;
+- Tableau e
+- Power BI.
+
+---
+
+🌐 **Redes Sociais para Contato:**
+
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rayan-tortelli-b7581a186)
+- [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rayan.tortelli)
