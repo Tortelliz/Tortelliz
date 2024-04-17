@@ -65,7 +65,13 @@
 
 ---
 
+📧 **E-mail:**
+
+- rayan.tortelli@gmail.com
+
+---
+
 🌐 **Redes Sociais para Contato:**
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rayan-tortelli-b7581a186){:target="_blank"}
-- [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rayan.tortelli){:target="_blank"}
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rayan-tortelli-b7581a186)
+- [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rayan.tortelli)
