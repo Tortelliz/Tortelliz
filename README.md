@@ -27,11 +27,11 @@ public void apresentacao() {
 
   Sou um multinstrumentista entusiasta e autodidata (em alguns instrumentos), especialidades:
 
-  🎸 Violão;
-  🥁 Bateria;
-  🎸 Contra Baixo Elétrico;
-  🎹 Teclado e
-  🎸 Guitarra.
+  - 🎸 Violão;
+  - 🥁 Bateria;
+  - 🎸 Contra Baixo Elétrico;
+  - 🎹 Teclado e
+  - 🎸 Guitarra.
 
   }
 
@@ -41,8 +41,8 @@ public void apresentacao() {
 
 Você pode me encontrar em:
 
-✳️ - INSTAGRAM - https://www.instagram.com/rayan.tortelli
-✳️ - LINKEDIN - https://www.linkedin.com/in/rayan-tortelli-b7581a186
+- ✳️ - INSTAGRAM - https://www.instagram.com/rayan.tortelli
+- ✳️ - LINKEDIN - https://www.linkedin.com/in/rayan-tortelli-b7581a186
 
 E-mail: rayan.tortelli@gmail.com
 
