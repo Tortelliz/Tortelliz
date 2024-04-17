@@ -32,9 +32,11 @@
 
 💼 **Vagas Desejadas:**
 
-- Desenvolvedor Jr.;
+- Desenvolvedor de Software Jr.;
 - Analista de Sistemas Jr.;
 - Analista de Projetos de Sistemas Jr.;
+- Analista de Dados Jr.;
+- Estagiário em Análise de Dados;
 - Estagiário em Desenvolvimento de Software e
 - Estagiário em Gerenciamento de Projetos de Sistemas.
 
@@ -44,6 +46,7 @@
 
 - Java;
 - Python;
+- PHP;
 - Visual Basic for Applications (VBA) e
 - Javascript.
 
@@ -53,13 +56,15 @@
 
 - Pacote Office;
 - Monday;
-- Canva;
 - MySQL;
 - SQLServer;
 - NodeRED (IoT);
-- VS Code;
-- IntelliJ;
-- NetBeans;
+- VS Code IDE;
+- Microsoft Visual Studio IDE;
+- IntelliJ IDE;
+- NetBeans IDE;
+- Eclipse IDE;
+- PyCharm IDE;
 - Tableau e
 - Power BI.
 
