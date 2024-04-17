@@ -1,8 +1,8 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Tortelliz&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Estatísticas do GitHub">
-
 ### Olá, meu nome é Rayan Tortelli!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Rayan%20Tortelli&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=Tortelliz&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Estatísticas do GitHub">
 
 <p align="left">Trabalho na Grafcet Soluções Tecnológicas<br/> Atuo como Analista de Projetos Jr.</p>
 
