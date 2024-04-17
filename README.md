@@ -57,6 +57,7 @@
 - Pacote Office;
 - Monday;
 - MySQL;
+- PostgreSQL;
 - SQLServer;
 - NodeRED (IoT);
 - VS Code IDE;
