@@ -11,12 +11,13 @@
 <h2>Possuo domínio em:</h2>
 
 - Programação Orientada a Objetos (POO);
-- Desenvolvimento Web Full Stack (Java Spring / React / Javascript);
+- Desenvolvimento Web Full Stack (Java Spring / Javascript / React);
 - Desenvolvimento Back-end com API Rest;
 - Padrão Model-View-Controller (MVC);
-- Desenvolvimento em Visual Basic for Applications (VBA);
-- Desenvolvimento em Java;
-- Desenvolvimento em Python;
+- Lógica de Programação;
+- Programação em Visual Basic for Applications (VBA);
+- Programação em Java;
+- Programação em Python;
 - Análise de Dados e
 - Criação de Views, Dashboards e Relatórios.
 
@@ -27,18 +28,6 @@
 <p align="left">Muito prazer! Sou um jovem de 22 anos empenhado em ingressar no mercado de tecnologia. Atualmente sou graduando no curso de Análise e Desenvolvimento de Sistemas (ADS) na Universidade de Mogi das Cruzes (UMC), cursando o 3º/4º semestre. Também atuo ativamente no mercado como Analista de Projetos Jr, porém, não especificamente na área de Desenvolvimento de Software, o que para mim é uma meta traçada.</p>
 
 <p align="left">Busco por novas oportunidades na área de Desenvolvimento de Software.</p>
-
----
-
-💼 **Vagas Desejadas:**
-
-- Desenvolvedor de Software Jr.;
-- Analista de Sistemas Jr.;
-- Analista de Projetos de Sistemas Jr.;
-- Analista de Dados Jr.;
-- Estagiário em Análise de Dados;
-- Estagiário em Desenvolvimento de Software e
-- Estagiário em Gerenciamento de Projetos de Sistemas.
 
 ---
 
