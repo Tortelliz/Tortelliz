@@ -4,11 +4,11 @@
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=Tortelliz&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Estatísticas do GitHub">
 
-<p align="left">Trabalho na Grafcet Soluções Tecnológicas<br/> Atuo como Analista de Projetos Jr.</p>
+<p align="left">Trabalho na Grafcet Soluções Tecnológicas<br/> Atuo como Analista de Sistemas de Software</p>
 
 ---
 
-<h2>Possuo domínio em:</h2>
+<h2>Domínios:</h2>
 
 - Programação Orientada a Objetos (POO);
 - Desenvolvimento Web Full Stack (Java Spring / Javascript / React);
@@ -25,44 +25,43 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left">Muito prazer! Sou um jovem de 22 anos empenhado em ingressar no mercado de tecnologia. Atualmente sou graduando no curso de Análise e Desenvolvimento de Sistemas (ADS) na Universidade de Mogi das Cruzes (UMC), cursando o 3º/4º semestre. Também atuo ativamente no mercado como Analista de Projetos Jr, porém, não especificamente na área de Desenvolvimento de Software, o que para mim é uma meta traçada.</p>
+<p align="left">Muito prazer! Sou um jovem de 22 anos empenhado em aprimorar meus conhecimentos na área de Tecnologia, atuo no mercado como Analista de Sistemas desenvolvendo soluções de software.</p>
 
-<p align="left">Busco por novas oportunidades na área de Desenvolvimento de Software.</p>
+<p align="left">Em meus desenvolvimentos conto com:</p>
 
 ---
 
 ♨️ **Linguagens de Programação:**
 
+- JavaScript;
 - Java;
-- Python;
-- PHP;
-- Visual Basic for Applications (VBA) e
-- Javascript.
+- Python e
+- Visual Basic for Applications (VBA).
 
 ---
 
 🔧 **Ferramentas:**
 
-- Pacote Office;
-- Monday;
 - MySQL;
-- PostgreSQL;
 - SQLServer;
-- NodeRED (IoT);
-- VS Code IDE;
-- Microsoft Visual Studio IDE;
-- IntelliJ IDE;
-- NetBeans IDE;
-- Eclipse IDE;
-- PyCharm IDE;
-- Tableau e
-- Power BI.
+- Node JS;
+- Node-Red;
+- React JS;
+- Apex Charts JS;
+- Leaflet JS;
+- Electron JS;
+- HTML5 e
+- CSS.
 
 ---
 
-📧 **E-mail:**
+📧 **E-mail Pessoal:**
 
 - rayan.tortelli@gmail.com
+
+📧 **E-mail Corporativo:**
+
+- rayan@grafcet.com.br
 
 ---
 
