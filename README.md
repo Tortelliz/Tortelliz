@@ -6,17 +6,17 @@
 
 <p align="left">💼 Atualmente, trabalho na Grafcet Soluções Tecnológicas</p>
 
-<p align="start">
+<p align="left">
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/grafcet/grafcet-logo.svg" width="200px" />
 </p>
 
-### 💻 Atuo como Analista de Sistemas
+<p align="left">💻 Atuo como Analista de Sistemas</p>
 
 ---
 
 ### 💫 Veja alguns clientes quais desenvolvi alguns projetos que estão operantes atualmente:
 
-<p align="start">
+<p align="left">
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/cesan/cesan-logo.svg" width="200px" />
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/facholi/facholi-logo.svg" width="200px" />
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/google/google-logo.svg" width="200px" />
@@ -27,6 +27,8 @@
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/suzano/suzano-logo.svg" width="200px" />
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/volkswagen/volkswagen-logo.svg" width="200px" />
 </p>
+
+---
 
 <h2>Domínios:</h2>
 
