@@ -8,7 +8,7 @@
 
 <p align="start">
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/grafcet/grafcet-logo.svg" width="200px" />
-</p>p
+</p>
 
 ### 💻 Atuo como Analista de Sistemas
 
