@@ -26,6 +26,9 @@
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/pirelli/pirelli-logo.svg" width="200px" />
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/suzano/suzano-logo.svg" width="200px" />
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/volkswagen/volkswagen-logo.svg" width="200px" />
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/rhodia/rhodia-logo.svg" width="200px" />
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/solvay/solvay-logo.svg" width="200px" />
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/heineken/heineken-logo.svg" width="200px" />
 </p>
 
 ---
