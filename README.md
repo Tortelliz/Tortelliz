@@ -14,7 +14,7 @@
 
 ---
 
-<h2>💫 Veja alguns clientes quais desenvolvi alguns projetos que estão operantes atualmente:</h2>
+<h2>Veja alguns clientes quais desenvolvi alguns projetos operantes atualmente:</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/cesan/cesan-logo.svg" width="200px" />
