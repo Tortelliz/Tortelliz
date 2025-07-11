@@ -16,7 +16,7 @@
 
 ### 💫 Veja alguns clientes quais desenvolvi alguns projetos que estão operantes atualmente:
 
-<p align="center">
+<p align="start">
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/cesan/cesan-logo.svg" width="200px" />
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/facholi/facholi-logo.svg" width="200px" />
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/google/google-logo.svg" width="200px" />
