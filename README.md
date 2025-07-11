@@ -7,27 +7,25 @@
 <p align="left">💼 Atualmente, trabalho na Grafcet Soluções Tecnológicas</p>
 
 <p align="start">
-  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/grafcet/grafcet-logo.svg" width="200px" />
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/grafcet/grafcet-logo.svg" width="200px" />
 </p>p
 
-### 🧑🏻‍💻 Atuo como Analista de Sistemas
-
----
+### 💻 Atuo como Analista de Sistemas
 
 ---
 
 ### 💫 Veja alguns clientes quais desenvolvi alguns projetos que estão operantes atualmente:
 
 <p align="center">
-  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/cesan/cesan-logo.svg" width="200px" />
-  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/facholi/facholi-logo.svg" width="200px" />
-  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/google/google-logo.svg" width="200px" />
-  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/kimberly-clark/kimberly-clark-logo.svg" width="200px" />
-  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/mrn/mrn-logo.svg" width="200px" />
-  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/phinia/phinia-logo.svg" width="200px" />
-  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/pirelli/pirelli-logo.svg" width="200px" />
-  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/suzano/suzano-logo.svg" width="200px" />
-  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/volkswagen/volkswagen-logo.svg" width="200px" />
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/cesan/cesan-logo.svg" width="200px" />
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/facholi/facholi-logo.svg" width="200px" />
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/google/google-logo.svg" width="200px" />
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/kimberly-clark/kimberly-clark-logo.svg" width="200px" />
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/mrn/mrn-logo.svg" width="200px" />
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/phinia/phinia-logo.svg" width="200px" />
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/pirelli/pirelli-logo.svg" width="200px" />
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/suzano/suzano-logo.svg" width="200px" />
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/volkswagen/volkswagen-logo.svg" width="200px" />
 </p>
 
 <h2>Domínios:</h2>
@@ -44,8 +42,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">Em meus desenvolvimentos conto com:</p>
-
----
 
 ♨️ **Linguagens de Programação:**
 
