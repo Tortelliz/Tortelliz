@@ -4,19 +4,19 @@
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=Tortelliz&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Estatísticas do GitHub">
 
-<p align="left">💼 Atualmente, trabalho na Grafcet Soluções Tecnológicas</p>
+<p align="center">💼 Atualmente, trabalho na Grafcet Soluções Tecnológicas</p>
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/grafcet/grafcet-logo.svg" width="200px" />
 </p>
 
-<p align="left">💻 Atuo como Analista de Sistemas</p>
+<p align="center">💻 Atuo como Analista de Sistemas</p>
 
 ---
 
-### 💫 Veja alguns clientes quais desenvolvi alguns projetos que estão operantes atualmente:
+<h2>💫 Veja alguns clientes quais desenvolvi alguns projetos que estão operantes atualmente:</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/cesan/cesan-logo.svg" width="200px" />
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/facholi/facholi-logo.svg" width="200px" />
   <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/google/google-logo.svg" width="200px" />
