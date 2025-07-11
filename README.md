@@ -8,6 +8,18 @@
 
 ---
 
+---
+
+### 💼 Veja alguns clientes com projetos operantes atualmente:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/1.svg" width="200px" />
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/2.svg" width="200px" />
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/3.svg" width="200px" />
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/4.svg" width="200px" />
+  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/5.svg" width="200px" />
+</p>
+
 <h2>Domínios:</h2>
 
 - Programação Orientada a Objetos (POO);
