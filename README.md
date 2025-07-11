@@ -50,7 +50,7 @@
 
 ♨️ **Linguagens de Programação:**
 
-- JavaScript; - ⭐
+- JavaScript; ⭐
 - Java;
 - Python e
 - Visual Basic for Applications (VBA).
