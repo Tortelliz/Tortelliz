@@ -4,40 +4,44 @@
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=Tortelliz&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="Estatísticas do GitHub">
 
-<p align="left">Trabalho na Grafcet Soluções Tecnológicas<br/> Atuo como Analista de Sistemas de Software</p>
+<p align="left">💼 Atualmente, trabalho na Grafcet Soluções Tecnológicas</p>
+
+<p align="start">
+  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/grafcet/grafcet-logo.svg" width="200px" />
+</p>p
+
+### 🧑🏻‍💻 Atuo como Analista de Sistemas
 
 ---
 
 ---
 
-### 💼 Veja alguns clientes com projetos operantes atualmente:
+### 💫 Veja alguns clientes quais desenvolvi alguns projetos que estão operantes atualmente:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/1.svg" width="200px" />
-  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/2.svg" width="200px" />
-  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/3.svg" width="200px" />
-  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/4.svg" width="200px" />
-  <img src="https://raw.githubusercontent.com/Tortelliz/portfolio-images/main/5.svg" width="200px" />
+  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/cesan/cesan-logo.svg" width="200px" />
+  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/facholi/facholi-logo.svg" width="200px" />
+  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/google/google-logo.svg" width="200px" />
+  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/kimberly-clark/kimberly-clark-logo.svg" width="200px" />
+  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/mrn/mrn-logo.svg" width="200px" />
+  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/phinia/phinia-logo.svg" width="200px" />
+  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/pirelli/pirelli-logo.svg" width="200px" />
+  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/suzano/suzano-logo.svg" width="200px" />
+  <img src="https://github.com/Tortelliz/portfolio-images/tree/main/volkswagen/volkswagen-logo.svg" width="200px" />
 </p>
 
 <h2>Domínios:</h2>
 
 - Programação Orientada a Objetos (POO);
-- Desenvolvimento Web Full Stack (Java Spring / Javascript / React);
-- Desenvolvimento Back-end com API Rest;
+- Desenvolvimento Web Full Stack;
 - Padrão Model-View-Controller (MVC);
 - Lógica de Programação;
-- Programação em Visual Basic for Applications (VBA);
-- Programação em Java;
-- Programação em Python;
-- Análise de Dados e
-- Criação de Views, Dashboards e Relatórios.
+- Banco de Dados e
+- Criação de Softwares Operacionais, Views, Dashboards, Relatórios.
 
 ---
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-<p align="left">Muito prazer! Sou um jovem de 22 anos empenhado em aprimorar meus conhecimentos na área de Tecnologia, atuo no mercado como Analista de Sistemas desenvolvendo soluções de software.</p>
 
 <p align="left">Em meus desenvolvimentos conto com:</p>
 
@@ -45,7 +49,7 @@
 
 ♨️ **Linguagens de Programação:**
 
-- JavaScript;
+- JavaScript; - ⭐
 - Java;
 - Python e
 - Visual Basic for Applications (VBA).
@@ -56,9 +60,12 @@
 
 - MySQL;
 - SQLServer;
+- Java Spring;
 - Node JS;
 - Node-Red;
 - React JS;
+- Vite JS;
+- React Native;
 - Apex Charts JS;
 - Leaflet JS;
 - Electron JS;
