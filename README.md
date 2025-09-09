@@ -58,7 +58,8 @@
 
 - JavaScript; ⭐
 - Ruby;
-- Python e
+- Python;
+- Java e
 - Visual Basic for Applications (VBA).
 
 ---
