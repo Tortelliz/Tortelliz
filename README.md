@@ -35,12 +35,18 @@
 
 <h2>Domínios:</h2>
 
-- Programação Orientada a Objetos (POO);
-- Desenvolvimento Web Full Stack;
-- Padrão Model-View-Controller (MVC);
-- Lógica de Programação;
-- Banco de Dados e
-- Criação de Softwares Operacionais, Views, Dashboards, Relatórios.
+- Desenvolvimento web full stack;
+- Computação em nuvem;
+- Computação em borda;
+- Padrão model-view-controller (MVC);
+- Lógica de programação;
+- Programação orientada a objetos (POO);
+- Programação embarcada (IOT);
+- Rotinas estáticas (automações);
+- Sistemas de coleta/conversão de dados;
+- Protocolos (Modbus TCP/RTU, Profinet, Ethernet IP, PCCC, OPC-DA, OPC-UA);
+- Banco de dados e
+- Criação de doftwares operacionais, views, dashboards, relatórios.
 
 ---
 
@@ -51,7 +57,7 @@
 ♨️ **Linguagens de Programação:**
 
 - JavaScript; ⭐
-- Java;
+- Ruby;
 - Python e
 - Visual Basic for Applications (VBA).
 
@@ -59,33 +65,37 @@
 
 🔧 **Ferramentas:**
 
-- MySQL;
-- SQLServer;
-- Java Spring;
-- Node JS;
-- Node-Red;
-- React JS;
+- React JS; ⭐
+- Next JS;
 - Vite JS;
 - React Native;
 - Apex Charts JS;
 - Leaflet JS;
 - Electron JS;
-- HTML5 e
-- CSS.
+- HTML5;
+- CSS;
+- Git;
+- Docker;
+- MySQL;
+- Microsoft SQLServer;
+- PostgreSQL;
+- Ruby on Rails;
+- Java Spring e
+- Node-Red.
 
 ---
 
-📧 **E-mail Pessoal:**
+📧 **E-mail pessoal:**
 
 - rayan.tortelli@gmail.com
 
-📧 **E-mail Corporativo:**
+📧 **E-mail corporativo:**
 
 - rayan@grafcet.com.br
 
 ---
 
-🌐 **Redes Sociais para Contato:**
+🌐 **Redes sociais:**
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rayan-tortelli-b7581a186)
 - [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/rayan.tortelli)
