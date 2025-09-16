@@ -57,6 +57,7 @@
 ♨️ **Linguagens de Programação:**
 
 - JavaScript; ⭐
+- TypeScript
 - Ruby;
 - Python;
 - Java e
