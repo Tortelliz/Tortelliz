@@ -33,20 +33,22 @@
 
 ---
 
-<h2>Domínios:</h2>
+<h2>Domínios, aplicações e metodologias:</h2>
 
 - Desenvolvimento web full stack;
+- Design Patterns;
+- DRY;
+- SOLID;
 - Computação em nuvem;
 - Computação em borda;
-- Padrão model-view-controller (MVC);
 - Lógica de programação;
 - Programação orientada a objetos (POO);
 - Programação embarcada (IOT);
 - Rotinas estáticas (automações);
 - Sistemas de coleta/conversão de dados;
-- Protocolos (Modbus TCP/RTU, Profinet, Ethernet IP, PCCC, OPC-DA, OPC-UA);
-- Banco de dados e
-- Criação de doftwares operacionais, views, dashboards, relatórios.
+- Protocolos industriais (Modbus TCP/RTU, Profinet, Ethernet IP, PCCC, OPC-DA, OPC-UA);
+- Banco de dados relacionais (SQL);
+- Criação de doftwares operacionais, views, dashboards, relatórios;
 
 ---
 
@@ -57,23 +59,17 @@
 ♨️ **Linguagens de Programação:**
 
 - JavaScript; ⭐
-- TypeScript
-- Ruby;
+- TypeScript; ⭐
 - Python;
-- Java e
-- Visual Basic for Applications (VBA).
 
 ---
 
-🔧 **Ferramentas:**
+🔧 **Ferramentas de dev:**
 
 - React JS; ⭐
-- Next JS;
+- Next JS; ⭐
+- Nest JS; ⭐
 - Vite JS;
-- React Native;
-- Apex Charts JS;
-- Leaflet JS;
-- Electron JS;
 - HTML5;
 - CSS;
 - Git;
@@ -81,9 +77,7 @@
 - MySQL;
 - Microsoft SQLServer;
 - PostgreSQL;
-- Ruby on Rails;
-- Java Spring e
-- Node-Red.
+- Node-Red;
 
 ---
 
