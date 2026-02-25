@@ -58,8 +58,8 @@
 
 ♨️ **Linguagens de Programação:**
 
-- JavaScript; ⭐
 - TypeScript; ⭐
+- JavaScript; ⭐
 - Python;
 
 ---
@@ -69,7 +69,7 @@
 - React JS; ⭐
 - Next JS; ⭐
 - Nest JS; ⭐
-- Vite JS;
+- Vite JS; ⭐
 - HTML5;
 - CSS;
 - Git;
@@ -78,6 +78,7 @@
 - Microsoft SQLServer;
 - PostgreSQL;
 - Node-Red;
+- Redis;
 
 ---
 
