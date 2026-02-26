@@ -48,7 +48,7 @@
 - Sistemas de coleta/conversão de dados;
 - Protocolos industriais (Modbus TCP/RTU, Profinet, Ethernet IP, PCCC, OPC-DA, OPC-UA);
 - Banco de dados relacionais (SQL);
-- Criação de doftwares operacionais, views, dashboards, relatórios;
+- Criação de softwares operacionais, views, dashboards e relatórios;
 
 ---
 
