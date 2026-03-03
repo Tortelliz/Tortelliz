@@ -48,7 +48,7 @@
 - Sistemas de coleta/conversão de dados;
 - Protocolos industriais (Modbus TCP/RTU, Profinet, Ethernet IP, PCCC, OPC-DA, OPC-UA);
 - Banco de dados relacionais (SQL);
-- Criação de softwares operacionais, views, dashboards e relatórios;
+- Criação de softwares operacionais, views, dashboards e relatórios.
 
 ---
 
@@ -60,7 +60,7 @@
 
 - TypeScript; ⭐
 - JavaScript; ⭐
-- Python;
+- Python.
 
 ---
 
@@ -78,7 +78,7 @@
 - Microsoft SQLServer;
 - PostgreSQL;
 - Node-Red;
-- Redis;
+- Redis.
 
 ---
 
