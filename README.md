@@ -48,7 +48,8 @@
 - Sistemas de coleta/conversão de dados;
 - Protocolos industriais (Modbus TCP/RTU, Profinet, Ethernet IP, PCCC, OPC-DA, OPC-UA);
 - Banco de dados relacionais (SQL);
-- Criação de softwares operacionais, views, dashboards e relatórios.
+- Banco de dados de séries temporais (TSDB);
+- Criação de softwares operacionais, views, dashboards e relatórios industriais, focados em performance.
 
 ---
 
@@ -77,6 +78,7 @@
 - MySQL;
 - Microsoft SQLServer;
 - PostgreSQL;
+- InfluxDB;
 - Node-Red;
 - Redis.
 
